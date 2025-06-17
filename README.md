@@ -73,6 +73,12 @@ Once pairwise similarities are computed, you can use clustering methods (e.g., K
 
 ---
 
+## Testing
+
+A test file is included in the source code to verify the functionality of the classifier, along with the dataset consisting of 20 news articles from the Sky News website. This dataset can be replaced to perform semantic analysis on a different collection of documents.
+
+---
+
 ## License
 
 This project was developed as coursework for academic purposes.
