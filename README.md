@@ -61,7 +61,7 @@ TF-IDF(t, d) = TF(t, d) * IDF(t, D)
 
 To assess semantic similarity between articles, **cosine similarity** is computed between their TF-IDF vectors. It measures the angle between two vectors in high-dimensional space.
 
-![Cosine Similarity](cosineDistance)
+![Cosine Similarity](cosineDistance.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ To assess semantic similarity between articles, **cosine similarity** is compute
 
 Once pairwise similarities are computed, you can use clustering methods (e.g., K-Means or hierarchical clustering) to group similar articles.
 
-![Clustering](clustering)
+![Clustering](clustering.jpg)
 
 ---
 
