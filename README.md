@@ -67,7 +67,7 @@ To assess semantic similarity between articles, **cosine similarity** is compute
 
 ## Clustering
 
-Once pairwise similarities are computed, you can use clustering methods (e.g., K-Means or hierarchical clustering) to group similar articles.
+Once pairwise similarities are computed, you can use clustering methods (e.g., K-Means or hierarchical clustering) to group similar articles. Figure [1]:
 
 ![Clustering](clustering.jpg)
 
@@ -78,6 +78,11 @@ Once pairwise similarities are computed, you can use clustering methods (e.g., K
 A test file is included in the source code to verify the functionality of the classifier, along with the dataset consisting of 20 news articles from the Sky News website. This dataset can be replaced to perform semantic analysis on a different collection of documents.
 
 ---
+
+## References
+
+[1] T. Mikolov, I. Sutskever, and L. L. Quoc, “Learning the meaning behind
+words,” Google Open Source Blog, 2016. [Online]. Available: https://opensource.googleblog.com/2013/08/learning-meaning-behind-words.html
 
 ## License
 
