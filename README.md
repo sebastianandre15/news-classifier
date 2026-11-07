@@ -1,6 +1,6 @@
 # News Article Classifier Using TF-IDF
 
-> A Java-based classifier that categorises news articles based on their semantic content using the Term Frequency-Inverse Document Frequency (TF-IDF) embedding technique combined with cosine similarity, written for an Object-Oriented programming assignment at the University of Birmingham.
+> A Java-based classifier that categorises news articles based on their semantic content using the Term Frequency-Inverse Document Frequency (TF-IDF) embedding technique combined with cosine similarity.
 
 ---
 
